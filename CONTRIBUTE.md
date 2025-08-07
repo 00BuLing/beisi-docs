@@ -15,8 +15,8 @@
 3. 确认负责的模块
 4. 加入项目组微信群
 5. 查看项目的任务
-6. 通过 GitHub [贡献您的代码](../tutorial/tutorials/01_basic/01_github_tutorial.md)
-7. 确保你的代码合乎[规范](../tutorial/rules/README.md)
+6. 通过 GitHub [贡献您的代码](./tutorial/tutorials/01_basic/01_github_tutorial.md)
+7. 确保你的代码合乎[规范](./rules/README.md)
 
 # 如何赚取奖金
 
@@ -41,7 +41,7 @@
     2. 新成员前 5 个 pull request 无奖金
     3. 奖金的发放通过项目负责人代发
        | 项目 | 负责人 |
-       | :---: | :---: |
+       | ----- | ----- |
        | AI Box | 林智清 |
        | 应用仓库 | 周悦 |
        | 知心家教 | 余思涵 |
