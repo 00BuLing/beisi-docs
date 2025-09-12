@@ -14,6 +14,16 @@
    2. 打开虚拟机平台  
       ![alt text](../../src/image/t_image20.png)
 
+2. 虚拟化都开了，docker桌面版还是显示未虚拟化
+   解决：
+   1. 检查是否安装vm，建议：vm用虚拟化，docker用wsl。
+   2. 重装docker，记得勾选使用wsl替代虚拟化
+
+3. wsl启动会有错误提示
+   原因：wsl识别不了docker定制的容器
+   建议：升级到wsl2。
+
+
 ## 项目容器排布
 
 ### 排布说明
